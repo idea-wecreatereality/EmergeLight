@@ -1,4 +1,4 @@
-# EmergeLight! Privacy Policy
+# Emerge Light! Privacy Policy
 
 Idea built the Emerge Light! app as a Free app. This SERVICE is provided by Idea at no cost and is intended for use as is.
 

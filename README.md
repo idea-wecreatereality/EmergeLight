@@ -14,9 +14,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third party services that may collect information used to identify you.
 
-The app stores location data locally during runtime. This information is not further stored or shared outside the app, other than to contacts specified by the user.
-
-The app may use and store location data (including backgroud location) even when the app is closed or not in use. You have the option to either accept or refuse such usage. If you choose to refuse, you will not be able to use this Service as its functions require location data.
+The app stores location data locally during foreground runtime. This information is not further stored or shared outside the app, other than to contacts specified by the user. This information is removed after closing the app.
 
 Link to privacy policy of third party service providers used by the app
 
